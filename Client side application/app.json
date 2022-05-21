@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "caremaPermission": "The app accesses your carema to let you take a bottle image to find recommendation ideas",
+          "photosPermission": "The app accesses your photos to let you upload a bottle image to find recommendation ideas"
+        }
+      ]
+    ],
+    "name": "A4App",
+    "slug": "A4App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.a4.A4App",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package":"com.a4.A4App",
+      "versionCode":1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
