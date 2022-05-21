@@ -4,10 +4,10 @@ Prof. Lui Kwok Fai Andrew 呂國輝教授
 https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=alui
 
 # Teammate
-Ram Wong
-David Lam
-Marco Cheung
-Samuel Lau
+- Ram Wong
+- David Lam
+- Marco Cheung
+- Samuel Lau
 
 # Description
 This is my final year project.
